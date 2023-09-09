@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Kareen\source\repos\check_hills\Source.cpp(202,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  check_hills.vcxproj -> C:\Users\Kareen\source\repos\check_hills\x64\Debug\check_hills.exe
