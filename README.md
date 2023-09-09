@@ -1,4 +1,4 @@
-# AI Lab Assignments: The AI Odyssey 🌌
+# AI Exploration Labs: The AI Odyssey 🌌
 Welcome to a captivating journey through the dynamic world of Artificial Intelligence. In this repository, we explore a diverse range of AI experiments, each showcasing a unique blend of theory and application. Dive deep into the world of genetics, optimization, and deep learning. Each lab is a narrative, a story waiting to be told.
 
 ## 🧬 Lab 1A & 1B: Genetic Algorithms - Nature's Codebook
